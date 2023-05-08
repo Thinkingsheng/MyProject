@@ -1,0 +1,27 @@
+2022-08-24 14:30:04,466 - 10932-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:30:04,571 - 10932-MainThread - D:\tools\pythonProject\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2022-08-24 14:32:35,293 - 11312-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:32:35,368 - 11312-MainThread - D:\tools\pythonProject\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2022-08-24 14:38:48,270 - 10088-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:39:00,476 - 10088-MainThread - D:\tools\python310\lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-08-24 14:39:02,623 - 10088-MainThread - D:\tools\python310\lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-08-24 14:43:46,629 - 11220-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:43:48,658 - 11220-MainThread - D:\tools\python310\lib\site-packages\urllib3\connection.py[line:542] - WARNING: Certificate did not match expected hostname: s3plus.meituan.net. Certificate: {'subject': ((('commonName', 'download.ks-cdn.com'),),), 'issuer': ((('countryName', 'GB'),), (('stateOrProvinceName', 'Greater Manchester'),), (('localityName', 'Salford'),), (('organizationName', 'Sectigo Limited'),), (('commonName', 'Sectigo RSA Domain Validation Secure Server CA'),)), 'version': 3, 'serialNumber': '3D3952AD2C09B4B7F203BE285515208B', 'notBefore': 'Jan 13 00:00:00 2022 GMT', 'notAfter': 'Jan 13 23:59:59 2023 GMT', 'subjectAltName': (('DNS', 'download.ks-cdn.com'), ('DNS', '*.cntv.kcdnvip.com'), ('DNS', '*.download.ks-cdn.com'), ('DNS', '*.flash.cn'), ('DNS', '*.v.kcdnvip.com')), 'OCSP': ('http://ocsp.sectigo.com',), 'caIssuers': ('http://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt',)}
+2022-08-24 14:47:15,766 - 5072-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:47:54,394 - 12256-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:49:57,701 - 11392-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 14:50:10,824 - 11392-MainThread - D:\tools\python310\lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-08-24 14:50:12,877 - 11392-MainThread - D:\tools\python310\lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-08-24 14:50:14,904 - 11392-MainThread - D:\tools\python310\lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-08-24 15:23:57,171 - 7640-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 15:25:02,421 - 14708-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 15:49:50,526 - 14072-MainThread - D:\tools\pythonProject\dianping_spider\utils\spider_config.py[line:79] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-08-24 15:49:50,603 - 14072-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 15:50:41,506 - 14456-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 15:53:40,934 - 14864-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 15:55:55,398 - 14700-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 15:59:22,378 - 13956-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 16:01:57,096 - 13340-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 16:04:36,951 - 11164-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 16:15:23,327 - 13740-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
+2022-08-24 17:07:53,168 - 13912-MainThread - D:\tools\pythonProject\dianping_spider\utils\requests_utils.py[line:55] - INFO: 使用cookie池
